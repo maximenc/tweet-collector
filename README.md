@@ -25,7 +25,7 @@ The get_tweets function in fetch_api.py has three required parameters:
 
 ## Usage
 Retrieve tweets from the past week that contain the cashtag $AAPL
-``
+```python 
 import fetch_api
 
 start_datetime = "2022-01-01T00:00:00Z"
@@ -33,7 +33,7 @@ end_datetime = "2022-01-08T00:00:00Z"
 query = "$AAPL"
 tweets_df = fetch_api.get_tweets(query, start_datetime, end_datetime)
 print(tweets_df.head())
-``
+```
 ## Collect tweets for S&amp;P 100 index members
 
 a Python code is given in "collect.py" to collect all tweets that mentioned the companies in the S&P 100 index, along with their respective cashtags, during a specified year.

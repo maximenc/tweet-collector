@@ -1,0 +1,102 @@
+ticker,name,sector,permno,mention
+AAPL,Apple,Information Technology,14593,"@apple, @iphone"
+ABBV,AbbVie,Health Care,13721,@abbvie
+ABT,Abbott,Health Care,20482,@AbbottNews
+ACN,Accenture,Information Technology,89071,@Accenture
+ADBE,Adobe,Information Technology,75510,@Adobe
+AIG,American International Group,Financials,66800,@AIGinsurance
+AMD,Advanced Micro Devices,Information Technology,61241,@AMD
+AMGN,Amgen,Health Care,14008,@Amgen
+AMT,American Tower,Real Estate,86111,
+AMZN,Amazon,Consumer Discretionary,84788,@amazon
+AVGO,Broadcom,Information Technology,93002,@Broadcom
+AXP,American Express,Financials,59176,"@AmericanExpress, @AskAmex"
+BA,Boeing,Industrials,19561,@Boeing
+BAC,Bank of America,Financials,59408,@BofA_Help
+BK,BNY Mellon,Financials,49656,@BNYMellon
+BKNG,Booking Holdings,Consumer Discretionary,86783,@BookingHoldings
+BLK,BlackRock,Financials,87267,"@BlackRock, @BlackRock_News"
+BMY,Bristol Myers Squibb,Health Care,19393,@bmsnews
+BRK.B,Berkshire Hathaway,Financials,,
+C,Citigroup,Financials,70519,@Citigroup
+CAT,Caterpillar,Industrials,18542,@CaterpillarInc
+CHTR,Charter Communications,Communication Services,12308,@CharterNewsroom
+CL,Colgate-Palmolive,Consumer Staples,18729,@CP_News
+CMCSA,Comcast,Communication Services,89525,"@comcastdotnet, @comcastcares"
+COF,Capital One,Financials,81055,@CapitalOne
+COP,ConocoPhillips,Energy,13928,@conocophillips
+COST,Costco,Consumer Staples,87055,@Costco
+CRM,Salesforce,Information Technology,90215,@salesforce
+CSCO,Cisco,Information Technology,76076,@CiscoSystems
+CVS,CVS Health,Health Care,17005,@CVSHealth
+CVX,Chevron,Energy,14541,@Chevron
+DHR,Danaher,Health Care,49680,@DanaherCorp
+DIS,Disney,Communication Services,26403,@Disney
+DOW,Dow,Materials,20626,@DowNewsroom
+DUK,Duke Energy,Utilities,27959,@DukeEnergy
+EMR,Emerson,Industrials,22103,@Emerson_News
+EXC,Exelon,Utilities,21776,@Exelon
+F,Ford,Consumer Discretionary,25785,"@Ford,@FordCustService"
+FDX,FedEx,Industrials,60628,@FederalExpress
+GD,General Dynamics,Industrials,12052,@generaldynamics
+GE,GE,Industrials,12060,@GE_Reports
+GILD,Gilead,Health Care,77274,@GileadSciences
+GM,GM,Consumer Discretionary,12369,@GMblogs
+GOOG,Alphabet (Class C),Communication Services,,
+GOOGL,Alphabet (Class A),Communication Services,90319,@Google
+GS,Goldman Sachs,Financials,86868,@GoldmanSachs
+HD,Home Depot,Consumer Discretionary,66181,@HomeDepot
+HON,Honeywell,Industrials,10145,@HoneywellNow
+IBM,IBM,Information Technology,12490,@IBM
+INTC,Intel,Information Technology,59328,"@intel, @IntelSoftware"
+JNJ,Johnson & Johnson,Health Care,22111,@JNJComm
+JPM,JPMorgan Chase,Financials,47896,"@jpmorgan, @JPMorganAM"
+KHC,Kraft Heinz,Consumer Staples,15408,@KraftHeinzCo
+KO,Coca-Cola,Consumer Staples,11308,@CocaCola
+LIN,Linde,Materials,18143,
+LLY,Lilly,Health Care,50876,
+LMT,Lockheed Martin,Industrials,21178,@LockheedMartin
+LOW,Lowe's,Consumer Discretionary,61399,@Lowes
+MA,Mastercard,Information Technology,91233,@Mastercard
+MCD,McDonald's,Consumer Discretionary,43449,@McDonalds
+MDLZ,Mondelēz International,Consumer Staples,89006,@MDLZ
+MDT,Medtronic,Health Care,60097,@Medtronic
+MET,MetLife,Financials,87842,@MetLife
+FB,Meta,Communication Services,13407,@Meta
+MMM,3M,Industrials,22592,@3M
+MO,Altria,Consumer Staples,13901,@AltriaNews
+MRK,Merck,Health Care,22752,@Merck
+MS,Morgan Stanley,Financials,69032,@MorganStanley
+MSFT,Microsoft,Information Technology,10107,@Microsoft
+NEE,NextEra Energy,Utilities,24205,@nexteraenergy
+NFLX,Netflix,Communication Services,89393,@netflix
+NKE,Nike,Consumer Discretionary,57665,@Nike
+NVDA,Nvidia,Information Technology,86580,@nvidia
+ORCL,Oracle,Information Technology,10104,@Oracle
+PEP,PepsiCo,Consumer Staples,13856,"@pepsi, @pepsico"
+PFE,Pfizer,Health Care,21936,@pfizer
+PG,Procter & Gamble,Consumer Staples,18163,@ProcterGamble
+PM,Philip Morris International,Consumer Staples,92602,@InsidePMI
+PYPL,PayPal,Information Technology,15488,@PayPal
+QCOM,Qualcomm,Information Technology,77178,@Qualcomm
+RTX,Raytheon Technologies,Industrials,17830,@RaytheonTech
+SBUX,Starbucks,Consumer Discretionary,77702,@Starbucks
+SCHW,Charles Schwab,Financials,75186,@CharlesSchwab
+SO,Southern Company,Utilities,18411,@SouthernCompany
+SPG,Simon,Real Estate,80100,
+T,AT&T,Communication Services,66093,@ATT
+TGT,Target,Consumer Discretionary,49154,@Target
+TMO,Thermo Fisher Scientific,Health Care,62092,@thermofisher
+TMUS,T-Mobile,Communication Services,91937,
+TSLA,Tesla,Consumer Discretionary,93436,@Tesla
+TXN,Texas Instruments,Information Technology,15579,@TXInstruments
+UNH,UnitedHealth,Health Care,92655,@UnitedHealthGrp
+UNP,Union Pacific,Industrials,48725,@UnionPacific
+UPS,United Parcel Service,Industrials,87447,@UPS
+USB,U.S. Bank,Financials,66157,@usbank
+V,Visa,Information Technology,92611,@Visa
+VZ,Verizon,Communication Services,65875,@Verizon
+WBA,Walgreens Boots Alliance,Consumer Staples,19502,@WBA_Global
+WFC,Wells Fargo,Financials,38703,"@WellsFargo, @Ask_WellsFargo"
+WMT,Walmart,Consumer Staples,55976,@Walmart
+XOM,ExxonMobil,Energy,11850,@exxonmobil
